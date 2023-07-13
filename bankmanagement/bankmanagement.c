@@ -2,7 +2,7 @@
 #include stdlib.h
 #include string.h
 #define MIN_AMOUNT 1000
-#define MAX_CUSTOMERS 200
+#define MAX_CUSTOMERS 150
 
 typedef struct {
     int accountNumber;
